@@ -1,2 +1,10 @@
-# Post-Recommender-System
-This is a post recommendation system app that used collaborative filtering and content-based filtering for suggesting the post based on the user id.
+# Steps to run the app
+1. Go into the project folder
+2. activate the virtual environment
+```bash
+myenv/Scripts/activate
+```
+3. run the app using streamlit
+```bash
+streamlit run app.py
+```
