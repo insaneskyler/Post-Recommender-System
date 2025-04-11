@@ -1,5 +1,11 @@
-.big-font {font-size:20px !important; font-weight:600;}
-.small-font {font-size:14px !important; color:#aaa;}
+.big-font {
+    font-size: 20px !important;
+    font-weight: 600;
+}
+.small-font {
+    font-size: 14px !important;
+    color: #aaa;
+}
 .recommendation-box {
     border: 1px solid #444;
     border-radius: 10px;
