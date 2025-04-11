@@ -9,7 +9,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # UI Setup
 st.set_page_config(page_title="Post Recommender", layout="wide")
-st.markdown(open("style.css").read(), unsafe_allow_html=True)
+st.markdown(open("assets/style.css").read(), unsafe_allow_html=True)
 st.title("📬 AI-Based Post Recommender System")
 
 # Load data
